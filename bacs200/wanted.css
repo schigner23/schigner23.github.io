@@ -24,7 +24,7 @@ aside {
     text-align: center;
     font-size: 50px;
     font-family: sans-serif;
-    color: white;
+    color: rgb(224, 187, 22);
     border: 2px solid rgb(139, 6, 6);
     float: right;
     width: 30%;
@@ -65,17 +65,17 @@ li {
 .header_logo {
     width: 80px;
     float: right;
-    background-color: white;
+    background-color: rgb(238, 148, 12);
     box-shadow: 2px 2px 5px gray;
     border-radius: 5px;
-    border: 1px solid white;
+    border: 1px solid rgb(233, 7, 7);
     padding: 0;
 }
 
 .page {
     padding: 2em;
     box-shadow: 2px 2px 5px grey;
-    background-color: #eeeeee;
+    background-color: #7c83ac;
     border: 3px solid #0E3D65;
     border-radius: 10px;
     width: 50%;
