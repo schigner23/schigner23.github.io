@@ -22,7 +22,7 @@ article {
 aside {
     background-color: gray;
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
     font-family: sans-serif;
     color: rgb(224, 187, 22);
     border: 2px solid rgb(139, 6, 6);
@@ -87,6 +87,12 @@ body {
 }
 
 h1 {
+    color: rgb(129, 5, 5);
+    text-align: center;
+    background-color: gray;
+}
+
+h2 {
     color: rgb(129, 5, 5);
     text-align: center;
     background-color: gray;
