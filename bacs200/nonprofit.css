@@ -8,6 +8,10 @@
 }
 
 body {
+    background-image: url(https://www.childrensdiabetesfoundation.org/wp-content/uploads/2017/08/cdf-logo-200-x-200.png);
+}
+
+body {
     padding: 0px;
     margin: 0px;
 }
