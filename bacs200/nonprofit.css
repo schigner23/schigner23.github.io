@@ -4,7 +4,7 @@
 * {
     padding: 0px;
     margin: 10px;
-    color: #a3caec;
+    color: #101213;
 }
 
 body {
@@ -39,14 +39,6 @@ footer {
     text-align: center;
     margin: 2em;
     padding: 2em;
-}
-
-header {
-    border: 3px solid #33808a;
-    background-color: #0E3D65;
-    font-family: sans-serif;
-    height: 120px;
-    padding: 0;
 }
 
 header * {
