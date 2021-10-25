@@ -40,7 +40,10 @@ footer {
     margin: 2em;
     padding: 2em;
 }
-
+img {
+    float: left;
+}
+}
 header {
     border: 3px solid #0e0e0f;
     background-color: #f79d17;
