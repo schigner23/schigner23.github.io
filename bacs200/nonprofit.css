@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: darkblue;
+    background-color: rgb(241, 241, 245);
 }
 
 body {
@@ -46,7 +46,7 @@ img {
 }
 header {
     border: 3px solid #0e0e0f;
-    background-color: #f79d17;
+    background-color: #eead3e;
     font-family: 'Modern Love Caps'
     height: 120px;
     padding: 0;
@@ -54,7 +54,7 @@ header {
 }
 
 header * {
-    color: #6687eb;
+    color: #0c0291;
 }
 
 hr {
