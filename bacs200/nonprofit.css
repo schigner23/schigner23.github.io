@@ -47,6 +47,7 @@ header {
     font-family: sans-serif;
     height: 120px;
     padding: 0;
+    text-align: center;
 }
 
 header * {
