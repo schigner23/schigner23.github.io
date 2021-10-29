@@ -18,7 +18,12 @@ article {
     margin: 4em;
     padding: 1em;
 }
-
+img {
+    float:right;
+    padding: 2px;
+    border:darkred;
+    box-shadow: darkred;
+}
 aside {
     background-color: rgb(117, 24, 52);
     text-align: center;
