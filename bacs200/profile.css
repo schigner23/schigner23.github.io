@@ -1,0 +1,78 @@
+/* ----------------------------------------------- */
+/* HTML Elements */
+
+* {
+    padding: 2px;
+    margin: 5px;
+    color: #e6b0d1;
+}
+
+body {
+    padding: 1px;
+    margin: 2.5px;
+}
+
+article {
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 2px 2px 5px rgb(196, 195, 195);
+    margin: 4em;
+    padding: 1em;
+}
+
+aside {
+    background-color: rgb(182, 182, 182);
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;
+    border: 2px solid rgb(241, 201, 238);
+    float: right;
+    width: 30%;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    margin: 2em;
+    padding: 2em;
+}
+
+header {
+    border: 3px solid #ec3fd591;
+    background-color: #0e5f29;
+    font-family: sans-serif;
+    height: 120px;
+    padding: 0;
+}
+
+header * {
+    color: #e796fc;
+}
+
+hr {
+    padding: 0px;
+    border: 4px solid #e796fc;
+}
+
+/* ----------------------------------------------- */
+/* Classes */
+
+.header_logo {
+    width: 80px;
+    float: right;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgb(212, 211, 211);
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 0;
+}
+
+.page {
+    padding: 2em;
+    box-shadow: 2px 2px 5px rgb(172, 171, 171);
+    background-color: #eeeeee;
+    border: 3px solid #1a4264;
+    border-radius: 10px;
+    width: 50%;
+    float: left;
+}
