@@ -47,6 +47,7 @@ header {
 
 header * {
     color: #e796fc;
+    text-align: center;
 }
 
 hr {
