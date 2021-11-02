@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: rgb(112, 112, 156);
+    background-color: rgb(100, 100, 100);
 }
 
 body {
@@ -17,14 +17,14 @@ body {
 }
 
 article {
-    border: 1px solid gray;
-    box-shadow: 2px 2px 5px gray;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 5px rgb(0, 0, 0);
     margin: 3em;
     padding: 1em;
 }
 
 aside {
-    background-color: gray;
+    background-color: rgb(2, 2, 2);
     text-align: center;
     font-size: 50px;
     font-family: sans-serif;
@@ -46,7 +46,7 @@ img {
 }
 header {
     border: 3px solid #0e0e0f;
-    background-color: #eead3e;
+    background-color: #5a5a5a;
     font-family: 'Modern Love Caps'
     height: 120px;
     padding: 0;
@@ -54,7 +54,7 @@ header {
 }
 
 header * {
-    color: #0c0291;
+    color: #616161;
 }
 
 hr {
@@ -84,7 +84,7 @@ li {
     padding: 2em;
     box-shadow: 2px 2px 5px grey;
     background-color: #eeeeee;
-    border: 3px solid #0E3D65;
+    border: 3px solid #030303;
     border-radius: 10px;
     width: 50%;
     float: left;
