@@ -5,7 +5,7 @@
     padding: 2px;
     margin: 5px;
     color: #050505;
-    background-color: darkred;
+    background-color: rgb(255, 255, 255);
 }
 
 body {
@@ -22,16 +22,16 @@ article {
 img {
     float:right;
     padding: 2px;
-    border:darkred;
-    box-shadow: darkred;
+    border:rgb(12, 12, 12);
+    box-shadow: rgb(3, 3, 3);
 }
 aside {
-    background-color: rgb(117, 24, 52);
+    background-color: rgb(255, 253, 253);
     text-align: center;
     font-size: 50px;
     font-family: Arial;
     color: white;
-    border: 2px solid rgb(131, 24, 60);
+    border: 2px solid rgb(0, 0, 0);
     float: right;
     width: 30%;
 }
@@ -68,7 +68,7 @@ hr {
 .header_logo {
     width: 80px;
     float: right;
-    background-color: rgb(110, 22, 49);
+    background-color: rgb(255, 255, 255);
     box-shadow: 2px 2px 5px rgb(212, 211, 211);
     border-radius: 5px;
     border: 1px solid white;
